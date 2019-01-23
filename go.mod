@@ -1,3 +1,3 @@
 module moddemo
 
-require github.com/sirupsen/logrus v1.3.0 // indirect
+require github.com/sirupsen/logrus v1.3.0
